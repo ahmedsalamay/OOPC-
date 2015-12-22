@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Account" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQEAAAAAgAAAAAAIIAEAIAAAABAAAAAACAgAAAkA=</HashCode>
+      <FileName>D:\C++\Code\Assignment 2 oop\Problem 4\Account.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bank" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAABAAAAAAAAAIAAAAAAAACABAUgAAAAAhAAAAA=</HashCode>
+      <FileName>D:\C++\Code\Assignment 2 oop\Problem 4\Bank.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CurrentAccount" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAUAAAAAAAAAAAAAAIAAABAAAABQAAAAAAAAAAAAA=</HashCode>
+      <FileName>D:\C++\Code\Assignment 2 oop\Problem 4\CurrentAccount.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Customer" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAABAAAQACAAAAAAAAAAgAEAAAAQAAAQAAACgA=</HashCode>
+      <FileName>D:\C++\Code\Assignment 2 oop\Problem 4\Customer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAkAAAAAAAAAAAAACAAAAAAAQQAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>D:\C++\Code\Assignment 2 oop\Problem 4\Date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SavingAccount" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAIAAAQAAAABAABAAACAAAAAAA=</HashCode>
+      <FileName>D:\C++\Code\Assignment 2 oop\Problem 4\SavingAccount.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
